@@ -20,10 +20,6 @@ Shows the minimum code required to generate a simple cross-tabulation report in 
  
 Generates a report as a [DataFrame][msdf] which is input to the [Plotly.NET][plotly] library to generate attractive charts.
 
----
-
-Last updated: 22-Sep-2022
-
 [vscode]: https://code.visualstudio.com/
 [vsintro]: https://code.visualstudio.com/docs/getstarted/introvideos
 [msdf]: https://learn.microsoft.com/en-us/dotnet/api/microsoft.data.analysis.dataframe
