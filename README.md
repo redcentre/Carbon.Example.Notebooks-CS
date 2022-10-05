@@ -20,7 +20,12 @@ Shows the minimum code required to generate a simple cross-tabulation report in 
  
 Generates a report as a [DataFrame][msdf] which is input to the [Plotly.NET][plotly] library to generate attractive charts.
 
+### 10 Simple Plutonium Report
+
+Generates a cross-tabulation report through calls to the [Plutonium web service][plutswag]. This demonstrates how the Carbon libraries can be hosted in a web service that provides job management and cross-tabulation reporting facilities to remote clients.
+
 [vscode]: https://code.visualstudio.com/
 [vsintro]: https://code.visualstudio.com/docs/getstarted/introvideos
 [msdf]: https://learn.microsoft.com/en-us/dotnet/api/microsoft.data.analysis.dataframe
 [plotly]: https://plotly.net/
+[plutswag]: https://rcsapps.azurewebsites.net/plutonium/swagger/
