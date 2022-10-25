@@ -16,13 +16,13 @@ The numbered prefixes on the file names are a hint to the order in which they sh
 
 Shows the minimum code required to generate a simple cross-tabulation report in comma separated format. It explains the *boilerplate* code that is normally at the start and end of Carbon library processing.
 
-### :blue_book: 02 Report to DataFrames and Bar Chart
+### :blue_book: 02 Report to DataFrame and Bar Chart
  
-Generates a report as a [DataFrame][msdf] which is input to the [Plotly.NET][plotly] library to generate a bar chart.
+Generates a report as a [DataFrame][msdf] which is input to the [Plotly.NET][plotly] library to create a bar chart.
 
-### :blue_book: 03 Report to DataFrames and Line Chart
+### :blue_book: 03 Report to DataFrame and Line Chart
  
-A more sophisticated example similar to Example 02. A larger report is passed through a DataFrame into [Plotly.NET][plotly] create a line chart.
+A more sophisticated example similar to example 02. A larger report is passed through a DataFrame into [Plotly.NET][plotly] to create a line chart.
 
 ### :blue_book: 10 Simple Plutonium Report
 
