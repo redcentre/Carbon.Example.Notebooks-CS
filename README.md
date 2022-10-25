@@ -20,7 +20,7 @@ Shows the minimum code required to generate a simple cross-tabulation report in 
  
 Generates a report as a [DataFrame][msdf] which is input to the [Plotly.NET][plotly] library to generate a bar chart.
 
-### :blue_book: 03 Report to DataFrames and line Chart
+### :blue_book: 03 Report to DataFrames and Line Chart
  
 A more sophisticated example similar to Example 02. A larger report is passed through a DataFrame into [Plotly.NET][plotly] create a line chart.
 
