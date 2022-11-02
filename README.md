@@ -24,9 +24,9 @@ Generates a report as a [DataFrame][msdf] which is input to the [Plotly.NET][plo
  
 A more sophisticated example similar to example 02. A larger report is passed through a DataFrame into [Plotly.NET][plotly] to create a line chart.
 
-### :blue_book: 10 Simple Plutonium Report
+### :blue_book: 10 Simple Web Service Report
 
-Generates a cross-tabulation report through calls to the [Plutonium web service][plut] ![PDF icon][pdf16]. This demonstrates how the Carbon libraries can be hosted in a web service that provides job management and cross-tabulation reporting facilities to remote clients.
+Generates a cross-tabulation report through calls to the [Carbon web service][carbsrv] ![PDF icon][pdf16]. This demonstrates how the Carbon libraries can be hosted in a web service that provides job management and cross-tabulation reporting facilities to remote clients.
 
 ## Other Notebooks
 
@@ -42,4 +42,4 @@ This stand-alone notebook contains the sets of sample code in the [Carbon Script
 [scriptpdf]: https://rcsapps.azurewebsites.net/doc/carbon/Carbon%20Scripting.pdf
 [rcsinst]: https://rcsapps.azurewebsites.net/doc/carbon/Introduction%20to%20the%20RedCentre%20Carbon%20Libraries%20and%20Applications.pdf
 [pdf16]: https://systemrcs.blob.core.windows.net/wiki-images/pdf16.png
-[plut]: https://rcsapps.azurewebsites.net/doc/carbon/articles/plutonium.htm
+[carbsrv]: https://rcsapps.azurewebsites.net/doc/carbon/articles/carbon-webapi.htm
